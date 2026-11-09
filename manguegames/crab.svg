@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 117 880 880">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#1B6B5F"/>
+      <stop offset="100%" stop-color="#0B2E2C"/>
+    </radialGradient>
+    <mask id="clawL">
+      <rect width="1080" height="1080" fill="white"/>
+      <path d="M205 405 L120 330 L150 300 Z" fill="black"/>
+    </mask>
+    <mask id="clawR">
+      <rect width="1080" height="1080" fill="white"/>
+      <path d="M875 405 L960 330 L930 300 Z" fill="black"/>
+    </mask>
+  </defs>
+
+  
+
+  <g stroke="#FF6B3D" stroke-width="30" stroke-linecap="round" fill="none">
+    <!-- legs -->
+    <path d="M360 640 Q300 690 270 760"/>
+    <path d="M385 670 Q340 730 330 800"/>
+    <path d="M720 640 Q780 690 810 760"/>
+    <path d="M695 670 Q740 730 750 800"/>
+    <!-- arms -->
+    <path d="M345 545 Q260 520 225 450"/>
+    <path d="M735 545 Q820 520 855 450"/>
+    <!-- eye stalks -->
+    <path d="M475 480 L455 390"/>
+    <path d="M605 480 L625 390"/>
+  </g>
+
+  <!-- claws -->
+  <circle cx="200" cy="400" r="72" fill="#FF6B3D" mask="url(#clawL)"/>
+  <circle cx="880" cy="400" r="72" fill="#FF6B3D" mask="url(#clawR)"/>
+
+  <!-- gamepad body -->
+  <rect x="320" y="465" width="440" height="230" rx="115" fill="#FF6B3D"/>
+
+  <!-- d-pad -->
+  <rect x="418" y="535" width="34" height="100" rx="8" fill="#FFF4E0"/>
+  <rect x="385" y="568" width="100" height="34" rx="8" fill="#FFF4E0"/>
+
+  <!-- buttons -->
+  <circle cx="640" cy="555" r="24" fill="#FFF4E0"/>
+  <circle cx="692" cy="610" r="24" fill="#FFF4E0"/>
+
+  <!-- eyes -->
+  <circle cx="452" cy="370" r="40" fill="#FFF4E0"/>
+  <circle cx="628" cy="370" r="40" fill="#FFF4E0"/>
+  <circle cx="460" cy="372" r="17" fill="#0B2E2C"/>
+  <circle cx="636" cy="372" r="17" fill="#0B2E2C"/>
+</svg>
