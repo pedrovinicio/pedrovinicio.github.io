@@ -1,0 +1,45 @@
+# Mangue Games — Instagram insights
+
+Maintained by the weekly run. Learnings drive posting times, hashtags and topic mix (see PLAYBOOK → Learning loop).
+
+## Current decisions
+- 2026-11-09 — **Account became Mangue Games** (@manguegames; Facebook Page renamed). Now 4 posts/week, one per game: Sat 13:00, Sun 13:00, Wed 16:00, Thu 16:00 (Thu is new). New per-game hashtag sets (all start at set A below). Carry-over from the Fast Eleven era: carousels have out-reached single images every week; organic reach for static posts had fallen to ~2/post; best-time data favoured later hours on the same days (Sat ~20–21h, Sun ~17h, Wed ~17h) — still a recommendation for Pedro, not applied. First Mangue Games week: change no other variables, so the new games get clean baseline data.
+
+## Hashtag sets
+Always `#MangueGames` + the game tag, plus a topic tag.
+- **Fast Eleven A** (best set of the Fast Eleven era, 7.3 reach/post): #MangueGames #FastEleven #FutebolManager #JogoDeFutebol #Elifoot #ManagerDeFutebol #JogosMobile
+- **Fast Eleven F** (testing since 2026-11-08): #MangueGames #FastEleven #IndieGame #MobileGames #JogoDeFutebol #JogosParaCelular
+- **Carom Legends A**: #MangueGames #CaromLegends #Sinuca #Bilhar #8Ball #JogoDeSinuca #IndieGame
+- **Riot Racers A**: #MangueGames #RiotRacers #JogoDeCorrida #PixelArt #RetroGaming #IndieGame #JogosMobile
+- **Gold Rush A**: #MangueGames #GoldRushWorldGames #JogosEsportivos #Atletismo #JogosArcade #RetroGaming #IndieGame
+
+## Results
+| Publish | Game | Weekday | Hour | Type | Topic | Set | Reach | Views | Shares | Saves | Follows |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | --: | --: | --: | --: | --: |
+| 2026-08-20 | Fast Eleven | Thu | 14:16 | Novidade (carousel, manual launch post) | Atualização V3 (5 novidades) | other | 246 | 482 | 2 | 0 | 3 |
+| 2026-10-05 | Fast Eleven | Mon | 15:31 | Novidade | Pênaltis | A | 9 | 17 | 1 | 0 | 0 |
+| 2026-10-07 | Fast Eleven | Wed | 16:00 | Novidade (carousel) | Fôlego | A | 15 | 36 | 0 | 0 | 0 |
+| 2026-10-10 | Fast Eleven | Sat | 13:00 | Engajamento | BEST XI | B | 9 | 12 | 0 | 0 | 0 |
+| 2026-10-11 | Fast Eleven | Sun | 13:00 | Você sabia? | Conquistas | C | 6 | 18 | 0 | 0 | 0 |
+| 2026-10-14 | Fast Eleven | Wed | 16:00 | Novidade (carousel) | Ranking de Treinadores | A | 7 | 14 | 0 | 0 | 0 |
+| 2026-10-17 | Fast Eleven | Sat | 13:00 | Novidade | Múltiplas carreiras | B | 4 | 6 | 0 | 0 | 0 |
+| 2026-10-18 | Fast Eleven | Sun | 13:00 | Engajamento | Qual liga (13 ligas) | C | 3 | 9 | 0 | 0 | 0 |
+| 2026-10-21 | Fast Eleven | Wed | 16:00 | Você sabia? (carousel) | Moral do técnico | A | 6 | 15 | 0 | 0 | 0 |
+| 2026-10-24 | Fast Eleven | Sat | 13:00 | Novidade | Compartilhar conquistas | D | 2 | 6 | 0 | 0 | 0 |
+| 2026-10-25 | Fast Eleven | Sun | 13:00 | Você sabia? + Engajamento (carousel) | Copa Nacional | A | 5 | 10 | 0 | 0 | 0 |
+| 2026-10-28 | Fast Eleven | Wed | 16:00 | Novidade (carousel) | Calendário | D | 4 | 12 | 0 | 0 | 0 |
+| 2026-10-31 | Fast Eleven | Sat | 13:00 | Engajamento | Vender ou segurar | A | 2 | 5 | 0 | 0 | 0 |
+| 2026-11-01 | Fast Eleven | Sun | 13:00 | Você sabia? | Notas dinâmicas | E | 2 | 3 | 0 | 0 | 0 |
+| 2026-11-04 | Fast Eleven | Wed | 16:00 | Você sabia? (carousel) | Cartões e lesões | E | 2 | 5 | 0 | 0 | 0 |
+| 2026-11-07 | Fast Eleven | Sat | 13:00 | Você sabia? | Acesso e rebaixamento | A | | | | | |
+| 2026-11-08 | Fast Eleven | Sun | 13:00 | Engajamento | Velocidade do jogo | F | | | | | |
+| 2026-11-11 | Fast Eleven | Wed | 16:00 | Dica do técnico (carousel) | Sair da Divisão 4 | F | | | | | |
+
+## Fast Eleven era (2026-10-05 → 2026-11-11) — decision history
+- 2026-10-05 — Starting defaults, no data yet. Slots: Sat 13:00, Sun 13:00, Wed 16:00. Hashtag set A.
+- 2026-10-05 (run 2) — Still no analytics (0 rows; best-time data all zero). Times unchanged. Variables changed: (1) start rotating hashtag sets — Wed A, Sat B, Sun C; (2) first carousel (Wed). Topic mix: 1 Novidade, 1 Engajamento, 1 Você sabia?.
+- 2026-10-09 (run 3) — Analytics now available but thin: 2 automated posts published (Pênaltis 10-05: reach 5; Fôlego carousel 10-07: reach 12, 32 views, 2 interactions) + Pedro's manual launch carousel of 2026-08-20 (reach 246, 482 views, 3 follows — baseline, not in log). < 6 posts, so times stay. Best-time data (IG): Wed peaks 16–17h (257/262) — current Wed 16:00 is fine; Sat best 20h/15h, Sun best 17h — revisit once ≥ 6 posts. Only open slot this week: Wed 10-14 16:00 (Sat/Sun already filled last run). Variables: none changed; Wed keeps set A (B/C get their first data on 10-10/10-11). Carousels outperform single images so far (12 vs 5; launch carousel 246) → Wed is a carousel again. Topic: Novidade — Ranking de Treinadores (promised in the 08-20 launch post; still owed: Múltiplas carreiras, Compartilhar conquistas).
+- 2026-10-16 (run 4) — 6 posts with data now (5 automated + 08-20 launch). Automated posts all reach 6–14; no hour/day clearly better in results. Best-time data (IG) favours later hours: Sat 19h (266 vs 236 at 13h), Sun 17h (268 vs 245 at 13h), Wed 17h (261 vs 238 at 16h) — differences ~10%, not decisive, and this run's brief fixed the slots, so times stay; recommended to Pedro instead. Hashtags: A avg reach 9.3 (3 posts), B 8 and C 6 (1 post each) → this week gives B (Sat) and C (Sun) their 2nd post, A on Wed; decide after. Variables changed: none (keeps attribution clean while B/C get data). Mix: Novidade (Múltiplas carreiras, owed from launch), Engajamento (13 ligas), Você sabia? carousel (Moral do técnico). Still owed: Compartilhar conquistas, Calendário da liga.
+- 2026-10-23 (run 5) — 8 automated posts with data. All reach 3–15 (views 6–36); 0 saves/follows on every automated post; organic reach is flat-to-falling. Hashtags (reach/post): A 9.3 (4 posts), B 6.5 (2), C 4.5 (2) → **B and C retired**; new set **D** built from the tags with most views per post in IGHT data (#JogoDeFutebol, #Elifoot, #FutebolManager, #IndieGame) plus new candidate #JogosDeCelular. Formats: carousels avg 9.3 reach vs single images 6.2 → **2 carousels this week** (Sun, Wed). Those are the 2 variables changed. Times unchanged (brief fixes Sat 13 / Sun 13 / Wed 16). Best-time data again favours later hours on the same days: Sat 20h (263 vs 243 at 13h), Sun 18h (274 vs 247), Wed 18h (263 vs 224 at 16h, +17%) — recommended to Pedro. Mix: Novidade (Compartilhar conquistas, owed since launch), Você sabia? + pergunta (Copa Nacional), Novidade (Calendário, owed). After this week, no V3 "Done" features are left unannounced.
+- 2026-10-30 (run 6) — 11 automated posts with data. Last week: Compartilhar conquistas reach 2 (D, single), Copa Nacional 5 (A, carousel), Calendário 4 (D, carousel) — lowest week yet; still 0 saves/follows on every automated post. Hashtags (reach/post): A 8.4 (5 posts), D 3.0 (2) → **D retired**; new set **E** keeps the tags with most views/post in IGHT data (#IndieGame ~21, #JogoDeFutebol ~9, #TecnicoDeFutebol, #Elifoot, #FutebolManager) — Sun + Wed get E, Sat keeps A as control. Formats: carousels avg 7.4 reach vs singles 5.5 — carousel advantage holding but shrinking; 1 carousel this week (Wed). Variables changed: (1) hashtag set D→E; (2) topic mix with no Novidade (no new commits in `fast-eleven` since 2026-08-13 and every V3 "Done" feature has been posted) → 1 Engajamento + 2 Você sabia? on evergreen mechanics (mercado/valor, notas dinâmicas, cartões e lesões). Times unchanged (brief fixes Sat 13 / Sun 13 / Wed 16), but best-time data again favours later hours: Sat 21h (324 vs 276 at 13h), Sun 11h/17h (277/275 vs 230 at 13h, +20%), Wed 17h (264 vs 222 at 16h, +19%) — recommended to Pedro. Organic static-image reach looks saturated at ~2–6/post; recommend testing Reels.
+- 2026-11-06 (run 7) — 14 automated posts with data. Last week: Vender ou segurar reach 2 (A, single), Notas dinâmicas 2 (E, single), Cartões e lesões 2 (E, carousel) — lowest week yet; 0 saves/follows again; no ERROR posts. Hashtags (reach/post): A 7.3 (6 posts), E 2.0 (2) → **E retired**; new set **F** leans on the tags with most views/post in IGHT data (#IndieGame ~11, #MobileGames ~6.5, #JogoDeFutebol ~5) plus new candidates #JogosParaCelular and #Futebol (broad). Sat keeps A as control; Sun + Wed get F. Formats: carousels avg 6.3 reach vs singles 4.6 → keep 1 carousel (Wed). Variables changed: (1) hashtag set E→F; (2) new content type **Dica do técnico** — a save-oriented 4-slide tips guide with a CTA slide ("Salva esse post"), aiming at the saves metric that is still 0. Topic mix otherwise evergreen (no `fast-eleven` commits since 2026-08-13; all V2/V3 Done features posted except Velocidade do jogo, used Sun). Times unchanged (brief fixes Sat 13 / Sun 13 / Wed 16); best-time data again favours later hours: Sat 21h (324 vs 276 at 13h, +17%), Sun 17h (249 vs 236), Wed 17h (272 vs 243 at 16h, +12%) — recommended to Pedro. Organic static reach has fallen to ~2/post for 2 weeks; Reels remain the main recommendation.
