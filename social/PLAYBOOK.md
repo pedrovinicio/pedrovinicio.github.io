@@ -21,11 +21,11 @@ Verify every fact in the game's repo (README, `docs/`, code; for Fast Eleven als
 | Key (`"game"` in make_post.py) | Game | Repo | Stores (caption CTA) | Game tag | Content angle |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | `fast-eleven` | Fast Eleven | fast-eleven | App Store + Google Play | #FastEleven | Football manager, Elifoot-style: 13 leagues, 32 clubs in 4 divisions, 14 rounds, promotion/relegation, 11 formations incl. BEST XI, dynamic ratings, manager morale, job offers, cup, cards/injuries, transfers. Vocabulary: escalação, acesso, rebaixamento, mercado, vestiário. |
-| `carom-legends` | Carom Legends | carom-legends | App Store | #CaromLegends | 3D pool (sinuca/bilhar) on a 9-ft tournament table: 8-ball and 9-ball, spin/english, ball in hand, fouls; online matches via Game Center with Elo per mode and leaderboards. |
-| `riot-racers` | Riot Racers | riot-racers | App Store | #RiotRacers | Punk combat racing in a desert galaxy, in the spirit of Rock n' Roll Racing: planets (Scrapia, Glowtown, Cryonix, Magmora), 4 tracks each, drivers, 10/6/3/1 points, upgrades (engine, tires, armor, missiles, mines, nitro), voxel/pixel art, synth punk soundtrack. Free planet + one-time Full Game purchase. |
-| `gold-rush` | Gold Rush: World Games | gold-rush-world-games | App Store | #GoldRushWorldGames | Multi-sport arcade in the spirit of 1992's Olympic Gold: 11 events (100m, hurdles, long jump, pole vault, hammer, javelin, archery, swimming, diving, kayak, track cycling), 24 nations, medal table, 3 difficulties, 25 achievements; free Mini Games + one-time full Games unlock. **Never** use "Olympic"/"Olimpíadas", the rings or other IOC marks — say "Jogos", "competição", "quadro de medalhas". |
+| `carom-legends` | Carom Legends | carom-legends | App Store + Google Play | #CaromLegends | 3D pool (sinuca/bilhar) on a 9-ft tournament table: 8-ball and 9-ball, spin/english, ball in hand, fouls; online matches via Game Center with Elo per mode and leaderboards. |
+| `riot-racers` | Riot Racers | riot-racers | App Store + Google Play | #RiotRacers | Punk combat racing in a desert galaxy, in the spirit of Rock n' Roll Racing: planets (Scrapia, Glowtown, Cryonix, Magmora), 4 tracks each, drivers, 10/6/3/1 points, upgrades (engine, tires, armor, missiles, mines, nitro), voxel/pixel art, synth punk soundtrack. Free planet + one-time Full Game purchase. |
+| `gold-rush` | Gold Rush: World Games | gold-rush-world-games | App Store + Google Play | #GoldRushWorldGames | Multi-sport arcade in the spirit of 1992's Olympic Gold: 11 events (100m, hurdles, long jump, pole vault, hammer, javelin, archery, swimming, diving, kayak, track cycling), 24 nations, medal table, 3 difficulties, 25 achievements; free Mini Games + one-time full Games unlock. **Never** use "Olympic"/"Olimpíadas", the rings or other IOC marks — say "Jogos", "competição", "quadro de medalhas". |
 
-If a game's repo shows it has launched on Google Play, update that row's Stores column and say so in the summary. Never claim a game is free, a price, a download count, a release date or a promotion.
+All four games are on the App Store and Google Play (since 2026-11-11). Never claim a game is free, a price, a download count, a release date or a promotion.
 
 ## Goal
 Maximise **reach** (people reached, new followers) for the studio and each game. Optimise for reach, shares and saves first, likes second.
@@ -73,7 +73,7 @@ Maximise **reach** (people reached, new followers) for the studio and each game.
 ## Caption style
 - Portuguese, energetic but not cringe, using each game's vocabulary.
 - Structure: hook line with 1–2 emojis → 2–3 short sentences → a question to drive comments 👇 → store line → hashtags (5–8).
-- Store line: Fast Eleven: "📲 Fast Eleven na App Store e Google Play. Link na bio." Others: "📲 <Game> na App Store. Link na bio."
+- Store line (every game): "📲 <Game> na App Store e Google Play. Link na bio."
 - Hashtags: the set chosen in `insights.md`; always `#MangueGames` and the game tag.
 - Never mention real players, athletes, drivers, clubs, crests or brands (and no IOC marks for Gold Rush).
 
