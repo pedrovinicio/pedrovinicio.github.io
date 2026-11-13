@@ -3,6 +3,7 @@
 Maintained by the weekly run. Learnings drive posting times, hashtags and topic mix (see PLAYBOOK → Learning loop).
 
 ## Current decisions
+- 2026-11-13 (run 8 — **first automated Mangue Games week**, 4 games) — Scheduled Sat 11-14 Carom (Engajamento, 8-ball ou 9-ball), Sun 11-15 Riot (Você sabia, 16 pistas/4 planetas), Wed 11-18 Gold Rush (Dica do atleta carousel, 6 dicas → saves), Thu 11-19 Fast Eleven (Você sabia, mando de campo +5%). Rotation: FE moved to the one slot it didn't hold last week (Thu); the other 3 games had only manual launch posts, so any slot was free. **Variables changed vs. defaults: none** — per the 11-09 plan, this first week keeps each game on its hashtag **set A** and the fixed slots so the new games get clean baseline data; the only levers pulled are content/format (one carousel = GR Dica, targeting the still-0 saves metric; 4 distinct layouts versus/stat/carousel/card; themes 1 dark + 1 light + 2 color). Data so far is too thin per game to move times or tags (Carom launch carousel reach 7/20 views; GR launch too recent to measure; Riot ran as Reels, separate metric). Best-time data (IG, America/Recife) still favours later hours — Fri/Sat/Sun/Wed all peak ~11h and ~17–20h (e.g. Sun 18h=260 vs 13h=216; Wed 18h=260 vs 16h=245; Sat 18h=249 vs 13h=223) — **recommendation to Pedro only**, not applied (brief fixes the slots). Last FE automated week stayed low (11-07 reach 2, 11-08 reach 4, 11-11 Dica carousel reach 3); organic static reach is saturated ~2–4/post — **Reels remain the top recommendation** (the two Riot launch Reels are the format to watch).
 - 2026-11-09 — **Account became Mangue Games** (@manguegames; Facebook Page renamed). Now 4 posts/week, one per game: Sat 13:00, Sun 13:00, Wed 16:00, Thu 16:00 (Thu is new). New per-game hashtag sets (all start at set A below). Carry-over from the Fast Eleven era: carousels have out-reached single images every week; organic reach for static posts had fallen to ~2/post; best-time data favoured later hours on the same days (Sat ~20–21h, Sun ~17h, Wed ~17h) — still a recommendation for Pedro, not applied. First Mangue Games week: change no other variables, so the new games get clean baseline data.
 
 ## Hashtag sets
@@ -31,9 +32,13 @@ Always `#MangueGames` + the game tag, plus a topic tag.
 | 2026-10-31 | Fast Eleven | Sat | 13:00 | Engajamento | Vender ou segurar | A | 2 | 5 | 0 | 0 | 0 |
 | 2026-11-01 | Fast Eleven | Sun | 13:00 | Você sabia? | Notas dinâmicas | E | 2 | 3 | 0 | 0 | 0 |
 | 2026-11-04 | Fast Eleven | Wed | 16:00 | Você sabia? (carousel) | Cartões e lesões | E | 2 | 5 | 0 | 0 | 0 |
-| 2026-11-07 | Fast Eleven | Sat | 13:00 | Você sabia? | Acesso e rebaixamento | A | | | | | |
-| 2026-11-08 | Fast Eleven | Sun | 13:00 | Engajamento | Velocidade do jogo | F | | | | | |
-| 2026-11-11 | Fast Eleven | Wed | 16:00 | Dica do técnico (carousel) | Sair da Divisão 4 | F | | | | | |
+| 2026-11-07 | Fast Eleven | Sat | 13:00 | Você sabia? | Acesso e rebaixamento | A | 2 | 2 | 0 | 0 | 0 |
+| 2026-11-08 | Fast Eleven | Sun | 13:00 | Engajamento | Velocidade do jogo | F | 4 | 5 | 0 | 0 | 0 |
+| 2026-11-11 | Fast Eleven | Wed | 16:00 | Dica do técnico (carousel) | Sair da Divisão 4 | F | 3 | 5 | 0 | 0 | 0 |
+| 2026-11-11 | Carom Legends | Tue | 21:23 | Lançamento (carousel, manual) | Lançamento Carom | Carom A | 7 | 20 | 0 | 0 | 0 |
+| 2026-11-12 | Gold Rush | Wed | 22:38 | Lançamento (carousel, manual) | Lançamento Gold Rush | Gold Rush A | — | — | — | — | — |
+
+_(Riot Racers launch ran as two Reels on 11-09, not feed posts — tracked separately. Gold Rush launch 11-12 too recent to have analytics at run 8.)_
 
 ## Fast Eleven era (2026-10-05 → 2026-11-11) — decision history
 - 2026-10-05 — Starting defaults, no data yet. Slots: Sat 13:00, Sun 13:00, Wed 16:00. Hashtag set A.
