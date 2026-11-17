@@ -8,7 +8,7 @@ Instructions for the weekly scheduled run that plans, creates and schedules @man
 - Cadence: **4 posts/week, one per game — Saturday 13:00, Sunday 13:00, Wednesday 16:00, Thursday 16:00** (America/Recife). The weekly run (Fridays) fills every slot in the next 7 days. Never schedule in the past; skip a slot that already has a post (check `getScheduledPosts` and `log.md`).
 - **Each game gets exactly one post per week.** Rotate which game gets which slot: no game keeps the same slot two weeks in a row (read last week's rows in `log.md`).
 - Language: **Portuguese (Brazil) only**.
-- Link in bio: `https://pedrovinicio.github.io/manguegames/` (lists every game with its store links).
+- Link in bio: `https://manguegames.com/` (lists every game with its store links).
 - Drive backup folder id: **10kCrzRICnjlux0stSE653v-rRmlz8aoD** ("Mangue Games – Instagram Posts").
 - Repos:
   - Image hosting + this playbook: `pedrovinicio/pedrovinicio.github.io` — push access, change **only `social/`** (never `manguegames/`, `app-ads.txt` or anything else).
