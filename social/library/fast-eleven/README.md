@@ -31,4 +31,4 @@ Record the post slug next to an image when it's used, so the feed doesn't repeat
 | `07_promocao.png` | 2026-10-14-ranking-treinadores, 2026-11-07-acesso-e-rebaixamento |
 | `08_chute.png` | 2026-10-28-calendario, 2026-11-08-velocidade-do-jogo |
 | `09_torcida.png` | 2026-10-21-moral-do-tecnico, 2026-11-19-fast-eleven-jogar-em-casa |
-| `10_estadio.png` | 2026-10-18-qual-liga |
+| `10_estadio.png` | 2026-10-18-qual-liga, 2026-11-21-fast-eleven-ataque-ou-retranca |
